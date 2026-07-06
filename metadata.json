@@ -1,0 +1,6 @@
+{
+  "name": "NK Prestige Steel Corporation",
+  "description": "Premium enterprise-grade corporate website for NK Prestige Steel Corporation, specializing in scrap metal trading, industrial demolition, factory dismantling, and lifting & shifting services with an interactive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
